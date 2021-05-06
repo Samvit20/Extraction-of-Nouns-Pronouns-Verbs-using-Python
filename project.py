@@ -20,7 +20,7 @@ for i in list_N_P:
 
 print(str(final_N_P))
 
-#VERBS
+#hello
 
 print("\n")
 
